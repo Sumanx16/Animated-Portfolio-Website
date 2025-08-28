@@ -1,4 +1,3 @@
-# Animated Portfolio Website
 
 A personal portfolio website built with a focus on smooth, dynamic animations and a minimalist design. This project serves as a showcase of my web development skills, featuring a custom mouse cursor and interactive project displays.
 
