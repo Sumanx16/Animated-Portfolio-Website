@@ -2,6 +2,8 @@
 
 A personal portfolio website built with a focus on smooth, dynamic animations and a minimalist design. This project serves as a showcase of my web development skills, featuring a custom mouse cursor and interactive project displays.
 
+https://sumanx16.github.io/Animated-Portfolio-Website/
+
 ## 🚀 Features
 
 * **Smooth Scrolling**: Utilizes the Locomotive Scroll library for a fluid and polished scrolling experience.
